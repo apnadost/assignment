@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-Knorish.MVCApp-F0A22EEB-25E1-4620-A841-EE73BBA7C212</UserSecretsId>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\Knorish.Service\Knorish.Service.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Knorish.Dto\Knorish.Dto.csproj" />
+    <ProjectReference Include="..\Knorish.Infrastructure\Knorish.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

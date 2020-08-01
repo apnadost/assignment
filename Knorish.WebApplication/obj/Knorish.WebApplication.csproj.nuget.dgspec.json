@@ -1,0 +1,276 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.WebApplication\\Knorish.WebApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Dto\\Knorish.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Dto\\Knorish.Dto.csproj",
+        "projectName": "Knorish.Dto",
+        "projectPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Dto\\Knorish.Dto.csproj",
+        "packagesPath": "C:\\Users\\Rishi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Infrastructure\\Knorish.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Infrastructure\\Knorish.Infrastructure.csproj",
+        "projectName": "Knorish.Infrastructure",
+        "projectPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Infrastructure\\Knorish.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Rishi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Service\\Knorish.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Service\\Knorish.Service.csproj",
+        "projectName": "Knorish.Service",
+        "projectPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Service\\Knorish.Service.csproj",
+        "packagesPath": "C:\\Users\\Rishi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Dto\\Knorish.Dto.csproj": {
+                "projectPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Dto\\Knorish.Dto.csproj"
+              },
+              "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Infrastructure\\Knorish.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Infrastructure\\Knorish.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.WebApplication\\Knorish.WebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.WebApplication\\Knorish.WebApplication.csproj",
+        "projectName": "Knorish.WebApplication",
+        "projectPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.WebApplication\\Knorish.WebApplication.csproj",
+        "packagesPath": "C:\\Users\\Rishi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.WebApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rishi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Dto\\Knorish.Dto.csproj": {
+                "projectPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Dto\\Knorish.Dto.csproj"
+              },
+              "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Infrastructure\\Knorish.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Infrastructure\\Knorish.Infrastructure.csproj"
+              },
+              "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Service\\Knorish.Service.csproj": {
+                "projectPath": "C:\\Users\\Rishi\\source\\repos\\Knorish\\Knorish.Service\\Knorish.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

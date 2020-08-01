@@ -1,0 +1,13 @@
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\bin\Debug\netcoreapp3.1\Knorish.Service.deps.json
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\bin\Debug\netcoreapp3.1\Knorish.Service.dll
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\bin\Debug\netcoreapp3.1\Knorish.Service.pdb
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\obj\Debug\netcoreapp3.1\Knorish.Service.csprojAssemblyReference.cache
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\obj\Debug\netcoreapp3.1\Knorish.Service.AssemblyInfoInputs.cache
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\obj\Debug\netcoreapp3.1\Knorish.Service.AssemblyInfo.cs
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\obj\Debug\netcoreapp3.1\Knorish.Service.dll
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\obj\Debug\netcoreapp3.1\Knorish.Service.pdb
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\bin\Debug\netcoreapp3.1\Knorish.Dto.dll
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\bin\Debug\netcoreapp3.1\Knorish.Infrastructure.dll
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\bin\Debug\netcoreapp3.1\Knorish.Dto.pdb
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\bin\Debug\netcoreapp3.1\Knorish.Infrastructure.pdb
+C:\Users\Rishi\source\repos\Knorish\Knorish.Service\obj\Debug\netcoreapp3.1\Knorish.Service.csproj.CopyComplete
